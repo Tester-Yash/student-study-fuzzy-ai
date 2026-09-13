@@ -1,0 +1,11 @@
+streamlit>=1.32.0
+numpy>=1.26.0
+pandas>=2.1.0
+matplotlib>=3.8.0
+python-dotenv>=1.0.0
+pydantic>=2.6.0
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-groq>=0.1.5
+langchain-openai>=0.1.7
+pytest>=8.0.0
